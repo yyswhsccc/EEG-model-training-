@@ -6,6 +6,7 @@ A typical CNN is composed of 3 parts：
   * Convolutional layers
   Responsible for extracting local features in the image.
   ![](https://easyai.tech/wp-content/uploads/2022/08/f144f-2019-06-19-juanji.gif)
+  
   This process could be understood as using a filter (the kernel) to filter individual small regions of the image, and get the feature values of these       small regions.
  * Pooling layers
  * Fully connected layers
