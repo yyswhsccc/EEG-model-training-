@@ -24,6 +24,7 @@ A typical CNN is composed of 3 parts：
  
 ### Why use Convolutional neural network?
 CNN is the best at image processing, it can:
-  1. effectively downscale large data volume into small data volume
-  2. effectively retain image features, in line with the principle of image processing
+  1. effectively downscale data volume
+  2. effectively retain image features, in line with the principle of image processing (similar to human vision perception)
+  
   ![](https://editor.analyticsvidhya.com/uploads/25366Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png)
