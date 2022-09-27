@@ -30,4 +30,4 @@ CNN is the best at image processing, it can:
   ![](https://editor.analyticsvidhya.com/uploads/25366Convolutional_Neural_Network_to_identify_the_image_of_a_bird.png)
 
 ## code
-* [Try to build a model](https://github.com/yyswhsccc/EEG-model-training-/blob/main/code/samplemodel.py)
+* [Try to build a CNN based model](https://github.com/yyswhsccc/EEG-model-training-/blob/main/code/samplemodel.py)
