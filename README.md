@@ -8,7 +8,7 @@ A typical CNN is composed of 3 parts：
   
   ![](https://easyai.tech/wp-content/uploads/2022/08/f144f-2019-06-19-juanji.gif). 
   
-  This process could be understood as using a filter (the kernel) to filter individual small regions of the image, and get the feature values of these       small regions.
+  This process could be understood as using a filter (the kernel) to filter individual small regions of the image, and get the feature values of these           small regions.
   
  * **Pooling layers**  
  Greatly reduce the dimension of images to avoid over-fitting and reduce time complexity
