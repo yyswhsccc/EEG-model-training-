@@ -4,7 +4,7 @@
 CNN is a representative algorithm of deep learning, which is a class of feedforward neural networks that includes convolutional computation and has a deep structure.
 A typical CNN is composed of 3 parts：
   * **Convolutional layers**  
-  Responsible for extracting local features in the image.
+  Responsible for extracting local features in the image
   
   ![](https://easyai.tech/wp-content/uploads/2022/08/f144f-2019-06-19-juanji.gif). 
   
